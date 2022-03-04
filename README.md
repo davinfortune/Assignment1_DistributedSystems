@@ -10,3 +10,5 @@ an sql database.
 <br/><br/>
 - It is important to have an SQL Server running on port 3306 and the appropriate username and password for your SQL Server, which is marked out in the code
 in Server.java.
+<br/>
+- Also make sure to add the JDBC jar package to your buildpath.
